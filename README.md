@@ -1,5 +1,7 @@
 # C++ C# GUIDE
 
+![image alt](https://github.com/flaviano255/C-C-GUIDE/blob/ff2c1f6c9dea0326ec08a1252f931d8e6c2a38b9/giphy%20(1).webp)
+
 Basics
  
 1. Syntax and Structure:
